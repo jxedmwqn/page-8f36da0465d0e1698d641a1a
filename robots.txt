@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-6fda73b2a0.wznee.cn/sitemap.xml
